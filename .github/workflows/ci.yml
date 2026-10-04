@@ -23,7 +23,7 @@ jobs:
       - name: Check versions
         run: |
           $csproj = [xml](Get-Content $env:PROJECT)
-          $version = ($csproj.Project.PropertyGroup.Version | Where-Object { $_ })[0]
+          $version = @($csproj.Project.PropertyGroup.Version | Where-Object { $_ })[0]
           $toml = (Select-String -Path thunderstore.toml -Pattern '^versionNumber = "(.+)"').Matches[0].Groups[1].Value
           if ($toml -ne $version) { throw "thunderstore.toml has $toml, the csproj has $version" }
           if ($env:GITHUB_REF_TYPE -eq 'tag' -and $env:GITHUB_REF_NAME -ne "v$version") {
