@@ -1,9 +1,0 @@
-{
-  "name": "BetterGrapplingHook",
-  "version_number": "1.0.0",
-  "website_url": "https://github.com/JevMods/BetterGrapplingHook",
-  "description": "The vanilla grappling hook often stops short of the anchor and then lets you slide down the wall. This mod gets you all the way there with a lift-off at the start, and you hang below the hook until you let go.",
-  "dependencies": [
-    "denikson-BepInExPack_Valheim-5.4.2351"
-  ]
-}

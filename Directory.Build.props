@@ -13,7 +13,7 @@
     <BepInExDir Condition="'$(BepInExDir)' == ''">$(ProfileDir)\BepInEx</BepInExDir>
 
     <PluginDeployDir Condition="'$(PluginDeployDir)' == ''">$(BepInExDir)\plugins</PluginDeployDir>
-    <ManagedDir>$(ValheimDir)\valheim_Data\Managed</ManagedDir>
+    <ManagedDir Condition="'$(ManagedDir)' == ''">$(ValheimDir)\valheim_Data\Managed</ManagedDir>
   </PropertyGroup>
 
   <Target Name="CheckGamePaths" BeforeTargets="ResolveAssemblyReferences" Condition="'$(MSBuildProjectExtension)' == '.csproj'">
