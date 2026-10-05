@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.5
+
+- Synced the Thunderstore description with the README.
+
 ## 1.0.4
 
 - Updated the description to mention the stamina limit and the lift-off.

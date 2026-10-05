@@ -4,8 +4,8 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "JevMods"
 name = "BetterGrapplingHook"
-versionNumber = "1.0.4"
-description = "The vanilla grappling hook often stops short of the anchor and lets you slide down the wall. This mod adds a lift-off, pulls you all the way and holds you below the hook. Stamina stops regenerating while attached, and you drop when it runs out."
+versionNumber = "1.0.5"
+description = "Tired of your grappling hook pulling you halfway through or not pulling at all? Tired of slipping off the surface every time you reach it or having to manually retrieve the anchor? This mod is for you! Heavily inspired by Just Cause game series."
 websiteUrl = "https://github.com/JevMods/BetterGrapplingHook"
 containsNsfwContent = false
 
