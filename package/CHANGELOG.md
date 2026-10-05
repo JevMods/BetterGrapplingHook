@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3
+
+- New package icon.
+
 ## 1.0.2
 
 - Reworded the README description and added a feedback section.
