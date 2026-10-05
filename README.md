@@ -1,13 +1,13 @@
 # BetterGrapplingHook
 
-Tired of your grappling hook not working at all, or only pulling you halfway through? Tired of slipping off the rock every time you reach it or having to manually retrieve the anchor? This mod fixes all of that!
+Tired of your grappling hook pulling you halfway through or not pulling at all? Tired of slipping off the surface every time you reach it or having to manually retrieve the anchor? This mod is for you! Heavily inspired by Just Cause game series.
 
 ## Features
 
 - Small lift-off at launch.
 - Pulling no longer stops early.
-- Hangs on any surface and held in place.
-- Stamina stops auto-regenerating while you are hooked, and the hook lets go when it runs out.
+- Hangs on any surface and holds you in place.
+- Stamina stops auto-regenerating while attached, and detaches when it runs out.
 
 ## Configuration
 
@@ -16,6 +16,10 @@ The settings are in `BepInEx/config/JevMods.BetterGrapplingHook.cfg`, created on
 - `LaunchLift`: extra upward speed at launch, in m/s (default 6).
 - `LiftDuration`: how long that extra speed lasts, in seconds (default 0.75).
 - `OnArrival`: `Hang` keeps you attached, `AutoRetract` releases the hook (default `Hang`).
+
+## Feedback
+
+Found a bug or have an idea for a change? Open an issue on the [GitHub issues page](https://github.com/JevMods/BetterGrapplingHook/issues). Refactoring suggestions are welcome too. I'll go through everything as fast as I can.
 
 ## Building from source
 
