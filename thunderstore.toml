@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "JevMods"
 name = "BetterGrapplingHook"
-versionNumber = "1.0.0"
+versionNumber = "1.0.1"
 description = "The vanilla grappling hook often stops short of the anchor and then lets you slide down the wall. This mod gets you all the way there with a lift-off at the start, and you hang below the hook until you let go."
 websiteUrl = "https://github.com/JevMods/BetterGrapplingHook"
 containsNsfwContent = false

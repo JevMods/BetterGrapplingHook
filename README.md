@@ -1,13 +1,13 @@
 # BetterGrapplingHook
 
-In vanilla the grappling hook often stops short of the anchor, and when you do arrive you slide down the wall while the rope stretches. This mod lifts you off the ground at launch, pulls you all the way to the anchor, and leaves you hanging below the hook until you let go. You can also have the hook release by itself when you arrive.
+Tired of your grappling hook not working at all, or only pulling you halfway through? Tired of slipping off the rock every time you reach it or having to manually retrieve the anchor? This mod fixes all of that!
 
 ## Features
 
-- A lift-off at launch.
-- The pull no longer stops early.
-- On walls and under beams you hang below the hook, upright and held in place.
-- Stamina stops regenerating while you are hooked, and the hook lets go when it runs out.
+- Small lift-off at launch.
+- Pulling no longer stops early.
+- Hangs on any surface and held in place.
+- Stamina stops auto-regenerating while you are hooked, and the hook lets go when it runs out.
 
 ## Configuration
 
