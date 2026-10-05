@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.4
+
+- Updated the description to mention the stamina limit and the lift-off.
+
 ## 1.0.3
 
 - New package icon.
