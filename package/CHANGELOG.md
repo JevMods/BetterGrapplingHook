@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.6
+
+- New icon: the real in-game grappling hook, loaded.
+
 ## 1.0.5
 
 - Synced the Thunderstore description with the README.

@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "JevMods"
 name = "BetterGrapplingHook"
-versionNumber = "1.0.5"
+versionNumber = "1.0.6"
 description = "Tired of your grappling hook pulling you halfway through or not pulling at all? Tired of slipping off the surface every time you reach it or having to manually retrieve the anchor? This mod is for you! Heavily inspired by Just Cause game series."
 websiteUrl = "https://github.com/JevMods/BetterGrapplingHook"
 containsNsfwContent = false
